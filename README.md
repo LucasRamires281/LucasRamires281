@@ -37,6 +37,8 @@ Tenho forte interesse em desenvolvimento front-end e automação de testes, com 
   <img align="center" alt="Playwright" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg">
 </div>
 
+<br>
+
 - Cypress e Playwright para testes automatizados  
 - Automação de testes e integração de sistemas  
 - BDD, Capybara e boas práticas de QA  
