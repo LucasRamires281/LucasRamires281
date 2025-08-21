@@ -8,8 +8,7 @@ Tenho forte interesse em desenvolvimento front-end e automação de testes, com 
 <br>
 
 <div align="left">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasRamires281&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasRamires281&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 </div>
 
